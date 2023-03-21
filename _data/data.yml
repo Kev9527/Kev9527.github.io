@@ -51,7 +51,7 @@ profile: |
 
 # Experience
 experience:
-- role: Teaching and Research Assistant
+  - role: Teaching and Research Assistant
     time: 2022.1-2022.12s
     company: University of Arizona
     details: |
