@@ -1,6 +1,6 @@
 name: Kaiwen Liu
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
@@ -20,9 +20,9 @@ education:
     time: 2021-2023
     university: University of Arizona
 
-  - degree: BSc in Mechanical Engineering
+  - degree: BS in Mechanical Engineering
     time: 2016-2020
-    university: University of Shanghai for Science and Technology
+    university: University of Shanghai for Science & Technology
 
 skills:
   - category: Programming
@@ -41,61 +41,72 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  A highly skilled and detail-oriented statistician with a strong foundation 
+  in programming and data structure. Proficient in statistical analysis, data modeling, 
+  and machine learning techniques, and skilled in programming languages including R, Python, 
+  and SQL. Proven ability to develop algorithms and implement statistical models 
+  to solve complex problems. Strong communication and collaboration skills, 
+  with experience working in cross-functional teams. Seeking a challenging role 
+  that leverages my statistical and programming expertise to drive business results and innovation
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
+- role: Teaching and Research Assistant
+    time: 2022.1-2022.12s
+    company: University of Arizona
+    details: |
+      As a teaching assistant, I provided essential support to students in courses such as 
+      Introduction to Function, Introduction to Statistics, and Introduction to Applied Regression 
+      and Generalized Linear Models. I graded homework assignments and exams, 
+      answered student questions during lectures, and held weekly office hours and exam review sessions. 
+      As a research assistant, I gained hands-on experience in setting up and managing 
+      a high-performance computing (HPC) environment for academic research. I used Singularity 
+      to create containers on HPC and developed shell scripts to improve data processing efficiency. 
+      Through my experience as both a teaching and research assistant, 
+      I have developed strong communication and collaboration skills, as well as a passion for 
+      solving complex problems through data analysis.
+
+  - role: Entry-level Software Engineer
+    time: 2020.9-2021.5
     company: Google
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      As an entry-level backend engineer, I collaborated with frontend engineers in the development 
+      of a mobile application that analyzed users' pulses to provide medical suggestions. 
+      I contributed to the design of the application's APIs and implemented and tested them using Golang. 
+      My experience with both SQL/relational databases (such as MySQL) and NoSQL databases 
+      (such as Redis) allowed me to effectively manage and manipulate data. Through this experience, 
+      I developed a strong habit of clean and efficient coding and thorough documentation.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Go, SQL, Git, Markdown
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+# publications:
+#   - title: Random title of paper. An interesting one.
+#     link: "#"
+#     authors: John E. Doe
+#     conference: Some conference, 2016
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  # - title: Second title of paper. An interesting one too.
+  #   link: "#"
+  #   authors: John E. Doe
+  #   conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
+  - title: House Price Prediction
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Cool Project 
+  - title: Prediction on Readmission of Diabetic Patients
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      As part of a project on predicting readmission of diabetic patients, 
+      I gained hands-on experience using Jupiter Notebook, Numpy, Pandas, 
+      and scikit-learn packages for data preprocessing and analysis. 
+      I applied various classification algorithms, 
+      including Random Forest, XGBoost, and Logistic Regression, to solve the problem. 
+      This project allowed me to develop skills in data analysis and problem-solving, 
+      which I believe will be valuable in my future work.
 
 # Volunteering
 volunteering:
