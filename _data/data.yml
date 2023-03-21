@@ -98,7 +98,7 @@ projects:
       tempor incididunt ut labore et dolore magna aliqua.
 
   - title: Prediction on Readmission of Diabetic Patients
-    link: #
+    link: readmission_using_pipeline.html
     details: |
       As part of a project on predicting readmission of diabetic patients, 
       I gained hands-on experience using Jupiter Notebook, Numpy, Pandas, 
