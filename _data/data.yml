@@ -6,7 +6,7 @@ fork: false
 contact:
   email: kaiwenliu97@gmail.com
   github: Kev9527
-  linkedin: Kaiwen Liu
+  linkedin: kaiwen-liu-46b625223
   phone: 520-486-9918
   gitlab: 
   twitter: 
@@ -68,7 +68,7 @@ experience:
 
   - role: Entry-level Software Engineer
     time: 2020.9-2021.5
-    company: Google
+    company: Jinmu Pulse Health Technology Co., Ltd. 
     details: |
       As an entry-level backend engineer, I collaborated with frontend engineers in the development 
       of a mobile application that analyzed users' pulses to provide medical suggestions. 
@@ -94,8 +94,12 @@ projects:
   - title: House Price Prediction
     link: House_Price.html
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      As part of my data science journey, I took on the Kaggle project House Price Prediction, 
+      where I applied various regression algorithms such as random forest, lasso, ridge regression, 
+      XGBoost, and ensemble method to the analysis. Through careful feature engineering and model tuning, 
+      I was able to achieve accurate and reliable predictions on the dataset. 
+      This project sharpened my skills in data preprocessing, machine learning algorithms, 
+      and ensemble techniques.
 
   - title: Prediction on Readmission of Diabetic Patients
     link: readmission_using_pipeline.html
@@ -107,6 +111,8 @@ projects:
       including Random Forest, XGBoost, and Logistic Regression, to solve the problem. 
       This project allowed me to develop skills in data analysis and problem-solving, 
       which I believe will be valuable in my future work.
+
+  
 
 # Volunteering
 # volunteering:
