@@ -65,6 +65,8 @@ experience:
       Through my experience as both a teaching and research assistant, 
       I have developed strong communication and collaboration skills, as well as a passion for 
       solving complex problems through data analysis.
+    technologies_used: | 
+      R, Shell
 
   - role: Entry-level Software Engineer
     time: 2020.9-2021.5
@@ -101,7 +103,7 @@ projects:
       This project sharpened my skills in data preprocessing, machine learning algorithms, 
       and ensemble techniques.
 
-  - title: Prediction on Readmission of Diabetic Patients
+  - title: Prediction on Readmissions of Diabetic Patients
     link: readmission_using_pipeline.html
     details: |
       As part of a project on predicting readmission of diabetic patients, 
