@@ -120,6 +120,16 @@ projects:
       This is a youtube video about introduction to kaggle and my project of Prediction on 
       Readmissions of Diabetic Patients.
 
+  - title: Dry Beans Classification 
+    link: dry_beans.html
+    details: |
+      Developed an accurate machine learning model using SVM algorithm to classify seven different 
+      types of dry beans (Phaseolus Vulgaris) while gaining experience in data analysis and model evaluation. 
+      The project involved handling and cleaning large datasets, exploring data visually, 
+      implementing various machine learning algorithms for classification, and evaluating model performance 
+      using appropriate metrics. The developed model can help dry beans producers achieve uniform dry beans, 
+      leading to improved market value and reduced labor costs.
+
 # Volunteering
 # volunteering:
 #   - time: 2020-Present
